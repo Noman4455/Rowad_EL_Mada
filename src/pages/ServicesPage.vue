@@ -50,9 +50,7 @@
             <div class="text-h5 text-bold text-info q-pb-sm gt-sm">
               Interior Designing
             </div>
-            <div
-              class="text-h6 q-py-sm text-bold text-info text-center q-pb-md lt-md"
-            >
+            <div class="text-h6 q-py-md text-bold text-info text-center lt-md">
               Interior Designing
             </div>
             <div class="text-subtitle1 text-primary" align="justify">
@@ -76,9 +74,7 @@
             <div class="text-h5 text-bold text-info q-pb-sm gt-sm">
               Exterior Designing
             </div>
-            <div
-              class="text-h6 q-py-sm text-bold text-info text-center q-pb-md lt-md"
-            >
+            <div class="text-h6 q-py-md text-bold text-info text-center lt-md">
               Exterior Designing
             </div>
             <div class="text-subtitle1 text-primary" align="justify">
@@ -206,9 +202,7 @@
           </div>
           <div class="col-12 col-md-10">
             <div class="text-h5 text-bold text-info q-pb-sm gt-sm">Ducts</div>
-            <div
-              class="text-h6 q-py-sm text-center text-bold text-info q-pb-md lt-md"
-            >
+            <div class="text-h6 q-py-md text-center text-bold text-info lt-md">
               Ducts
             </div>
             <div class="text-subtitle1 text-primary" align="justify">

@@ -143,7 +143,6 @@
           <div><a href="#/service">Construction</a></div>
           <div><a href="#/service">Interior Designing</a></div>
           <div><a href="#/service">Exterior Designing</a></div>
-          <div><a href="#/service">Installation</a></div>
           <div><a href="#/service">Maintenance</a></div>
           <div><a href="#/service">Heating System</a></div>
           <div><a href="#/service">Air Conditioning Equipment</a></div>
@@ -213,7 +212,9 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3 q-pt-lg q-gutter-y-md">
           <div class="text-h6 text-bold">SERVICES</div>
-          <div><a href="#/service">Installation</a></div>
+          <div><a href="#/service">Construction</a></div>
+          <div><a href="#/service">Interior Designing</a></div>
+          <div><a href="#/service">Exterior Designing</a></div>
           <div><a href="#/service">Maintenance</a></div>
           <div><a href="#/service">Heating System</a></div>
           <div><a href="#/service">Air Conditioning Equipment</a></div>
@@ -223,7 +224,7 @@
           <div>
             <div class="text-h6 text-bold text-red">HAVE QUESSTIONS?</div>
           </div>
-          <div class="text-bold q-pb-md" style="font-size: 2.5rem">
+          <div class="text-bold q-pb-md" style="font-size: 2rem">
             <div class="div" style="font-size: 12px">Get in Touch with us</div>
             <div class="">
               <a href="https://wa.me/+96878678282" target="_blank">

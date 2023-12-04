@@ -91,3 +91,12 @@ a {
   text-decoration: none;
   color: white;
 }
+
+.box {
+  border: solid 0.5px #dbdfe4;
+  padding: 5px 5px;
+  cursor: pointer;
+}
+.box:hover {
+  border: solid 2px #0a2b4c;
+}
