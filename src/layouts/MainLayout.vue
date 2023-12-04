@@ -3,7 +3,7 @@
     <q-header v-scroll="handleScroll" class="bg-transparent">
       <div ref="mobList" class="navlist">
         <q-toolbar ref="mobList" class="container" style="height: 10vh">
-          <a href="#"
+          <!-- <a href="#"
             ><div class="text-h5 text-primary gt-xs" style="font-weight: 1000">
               Rowad El-Mada
             </div></a
@@ -12,7 +12,19 @@
             ><div class="text-h6 text-primary lt-sm" style="font-weight: 1000">
               Rowad El-Mada
             </div></a
+          > -->
+
+          <q-img src="~assets/logo2.png" height="55px" width="103px" />
+          <div
+            class="q-pl-md text-bold q-mt-sm"
+            style="font-size: 18px; color: #e9c46a"
           >
+            ROWAD EL-MADA
+          </div>
+
+          <!-- <div class="q-pt-md">
+            <q-img src="~assets/logo.png" height="120px" width="110px" />
+          </div> -->
 
           <div class="absolute-right q-pt-md gt-sm">
             <q-btn flat to="/" color="primary" class="text-bold" label="Home" />
@@ -131,14 +143,17 @@
         />
       </a>
       <div class="row container q-py-xl q-col-gutter-md">
-        <div class="col-12 col-md-6 col-lg-5 q-gutter-y-md">
+        <div class="col-4">
+          <q-img src="~assets/logo1.png" height="240px" width="220px" />
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 q-gutter-y-md">
           <div class="text-h6 text-bold">COMPANY</div>
           <div><a href="#/about">About</a></div>
           <div><a href="#/service">What We Do</a></div>
           <div><a href="#/about">How We Do</a></div>
           <div><a href="#/contact">Contact</a></div>
         </div>
-        <div class="col-12 col-md-6 col-lg-3 q-gutter-y-md">
+        <div class="col-12 col-md-6 col-lg-2 q-gutter-y-md">
           <div class="text-h6 text-bold">SERVICES</div>
           <div><a href="#/service">Construction</a></div>
           <div><a href="#/service">Interior Designing</a></div>
@@ -148,7 +163,7 @@
           <div><a href="#/service">Air Conditioning Equipment</a></div>
           <div><a href="#/service">Ducts</a></div>
         </div>
-        <div class="col-12 col-md-6 col-lg-4 q-gutter-y-sm text-right">
+        <div class="col-12 col-md-6 col-lg-3 q-gutter-y-sm text-right">
           <div>
             <div class="text-h6 text-bold text-red">HAVE QUESSTIONS?</div>
           </div>
