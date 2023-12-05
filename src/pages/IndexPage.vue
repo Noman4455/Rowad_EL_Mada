@@ -15,7 +15,7 @@
         infinite
         arrows
         class="bg-primary text-white shadow-1 rounded-borders"
-        style="height: 100vh; margin-top: -10vh"
+        style="height: 100vh; margin-top: -15vh"
       >
         <q-carousel-slide
           v-for="(slide, index) in slides"
@@ -47,7 +47,7 @@
         infinite
         arrows
         class="bg-primary text-white shadow-1 rounded-borders"
-        style="height: 50vh; margin-top: -10vh"
+        style="height: 50vh; margin-top: -15vh"
       >
         <q-carousel-slide
           v-for="(slide, index) in slides"
@@ -438,28 +438,10 @@ export default {
         {
           name: "style4",
           imgSrc:
-            "https://abrarme.com/wp-content/uploads/2022/10/home-banner-2-1.jpg",
+            "https://images.unsplash.com/photo-1429497419816-9ca5cfb4571a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           title: "The Road To Success",
         },
       ],
-      // items: [
-      //   {
-      //     img: "https://abrarme.com/wp-content/uploads/2018/12/h7-custom-icon-img-01.png",
-      //     title: "1. Discussion",
-      //   },
-      //   {
-      //     img: "https://abrarme.com/wp-content/uploads/2018/12/h7-custom-icon-img-02.png",
-      //     title: "2. Planning",
-      //   },
-      //   {
-      //     img: "https://abrarme.com/wp-content/uploads/2022/10/Designing-icon.png",
-      //     title: "3. Designing",
-      //   },
-      //   {
-      //     img: "https://icons8.com/icon/uH9IMlnZUibR/execution",
-      //     title: "4. Execution",
-      //   },
-      // ],
     };
   },
 };

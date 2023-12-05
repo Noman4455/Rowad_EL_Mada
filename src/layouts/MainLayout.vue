@@ -1,32 +1,14 @@
 <template>
   <q-layout view="hHr lpR fFr">
-    <q-header v-scroll="handleScroll" class="bg-transparent">
+    <q-header
+      v-scroll="handleScroll"
+      style="background-color: white; opacity: 80%"
+    >
       <div ref="mobList" class="navlist">
-        <q-toolbar ref="mobList" class="container" style="height: 10vh">
-          <!-- <a href="#"
-            ><div class="text-h5 text-primary gt-xs" style="font-weight: 1000">
-              Rowad El-Mada
-            </div></a
-          >
-          <a href="#"
-            ><div class="text-h6 text-primary lt-sm" style="font-weight: 1000">
-              Rowad El-Mada
-            </div></a
-          > -->
+        <q-toolbar ref="mobList" class="container" style="height: 15vh">
+          <q-img src="~assets/logo2.png" height="80px" width="120px" />
 
-          <q-img src="~assets/logo2.png" height="55px" width="103px" />
-          <div
-            class="q-pl-md text-bold q-mt-sm"
-            style="font-size: 18px; color: #e9c46a"
-          >
-            ROWAD EL-MADA
-          </div>
-
-          <!-- <div class="q-pt-md">
-            <q-img src="~assets/logo.png" height="120px" width="110px" />
-          </div> -->
-
-          <div class="absolute-right q-pt-md gt-sm">
+          <div class="absolute-right q-pt-lg q-mt-md gt-sm">
             <q-btn flat to="/" color="primary" class="text-bold" label="Home" />
             <q-btn
               flat
@@ -144,7 +126,7 @@
       </a>
       <div class="row container q-py-xl q-col-gutter-md">
         <div class="col-4">
-          <q-img src="~assets/logo1.png" height="240px" width="220px" />
+          <q-img src="~assets/logo1.png" height="auto" width="200px" />
         </div>
         <div class="col-12 col-md-6 col-lg-3 q-gutter-y-md">
           <div class="text-h6 text-bold">COMPANY</div>
@@ -297,8 +279,10 @@ export default {
     const handleScroll = () => {
       if (window.scrollY > 250) {
         mobList.value.style.backgroundColor = "white";
+        mobList.value.style.opecity = "100%";
       } else {
         mobList.value.style.backgroundColor = "";
+        mobList.value.style.opecity = "";
       }
     };
 

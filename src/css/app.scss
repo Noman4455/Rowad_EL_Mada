@@ -4,61 +4,61 @@
   font-family: lato;
 }
 
-/* Dropdown Button */
-.dropbtn {
-  background-color: transparent;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-  font-weight: bold;
-}
+// /* Dropdown Button */
+// .dropbtn {
+//   background-color: transparent;
+//   color: white;
+//   padding: 16px;
+//   font-size: 16px;
+//   border: none;
+//   cursor: pointer;
+//   font-weight: bold;
+// }
 
-.dropbtn:hover {
-  color: #002357;
-}
+// .dropbtn:hover {
+//   color: #002357;
+// }
 
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
+// /* The container <div> - needed to position the dropdown content */
+// .dropdown {
+//   position: relative;
+//   display: inline-block;
+// }
 
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 200px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-}
+// /* Dropdown Content (Hidden by Default) */
+// .dropdown-content {
+//   display: none;
+//   position: absolute;
+//   background-color: #f1f1f1;
+//   min-width: 200px;
+//   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+//   z-index: 1;
+// }
 
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
+// /* Links inside the dropdown */
+// .dropdown-content a {
+//   color: black;
+//   padding: 12px 16px;
+//   text-decoration: none;
+//   display: block;
+// }
 
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: #ddd;
-}
+// /* Change color of dropdown links on hover */
+// .dropdown-content a:hover {
+//   background-color: #ddd;
+// }
 
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
+// /* Show the dropdown menu on hover */
+// .dropdown:hover .dropdown-content {
+//   display: block;
+// }
 
-.hover {
-  text-decoration: none;
-}
-.hover:hover {
-  color: white;
-}
+// .hover {
+//   text-decoration: none;
+// }
+// .hover:hover {
+//   color: white;
+// }
 
 .container {
   padding-right: 15px;
