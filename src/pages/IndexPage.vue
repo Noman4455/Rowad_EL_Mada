@@ -145,7 +145,7 @@
         <div class="col-12 col-md-5 lt-md">
           <div class="text-center q-pt-md q-pr-md">
             <div class="row q-gutter-md">
-              <div class="col-12 col-sm-6 box">
+              <div class="col-6 box">
                 <q-img
                   src="~assets/construction.png"
                   height="60px"
@@ -155,32 +155,32 @@
                   Construction
                 </div>
               </div>
-              <div class="col-12 col-sm box">
+              <div class="col box">
                 <q-img src="~assets/interior.png" height="60px" width="60px" />
                 <div class="text-h6 text-primary text-bold q-pt-md">
                   Interior Designing
                 </div>
               </div>
-              <div class="col-12 col-sm-6 box">
+              <div class="col-6 box">
                 <q-img src="~assets/exterior.png" height="60px" width="60px" />
                 <div class="text-h6 text-primary text-bold q-pt-md">
                   Exterior Designing
                 </div>
               </div>
-              <div class="col-12 col-sm box">
+              <div class="col box">
                 <q-img src="~assets/heating.jpeg" height="60px" width="60px" />
                 <div class="text-h6 text-primary text-bold q-pt-md">
                   Heating System
                 </div>
               </div>
-              <div class="col-12 col-sm-6 box">
+              <div class="col-6 box">
                 <q-img src="~assets/ac.jpeg" height="60px" width="60px" />
                 <div class="text-h6 text-primary text-bold q-pt-md">
                   Air Conditioning
                 </div>
               </div>
 
-              <div class="col-12 col-sm box">
+              <div class="col box">
                 <q-img src="~assets/ducts.jpeg" height="60px" width="60px" />
                 <div class="text-h6 text-primary text-bold q-pt-md">
                   Air Ducts

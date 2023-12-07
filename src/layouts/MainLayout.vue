@@ -41,7 +41,7 @@
             dense
             round
             color="primary"
-            class="q-mr-md lt-md"
+            class="q-mr-md lt-md q-mb-lg"
             icon="menu"
             aria-label="Menu"
             @click="drawer"
