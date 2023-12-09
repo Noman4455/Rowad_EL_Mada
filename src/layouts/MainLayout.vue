@@ -1,33 +1,41 @@
 <template>
   <q-layout view="hHr lpR fFr">
-    <q-header
-      v-scroll="handleScroll"
-      style="background-color: white; opacity: 80%"
-    >
+    <q-header v-scroll="handleScroll" style="background-color: transparent">
       <div ref="mobList" class="navlist">
         <q-toolbar ref="mobList" class="container" style="height: 15vh">
-          <q-img src="~assets/logo2.png" height="80px" width="120px" />
+          <q-img
+            src="~assets/logo2.png"
+            class="opecity"
+            height="80px"
+            width="120px"
+          />
 
           <div class="absolute-right q-pt-lg q-mt-md gt-sm">
-            <q-btn flat to="/" color="primary" class="text-bold" label="Home" />
+            <q-btn
+              flat
+              to="/"
+              color="primary"
+              class="text-bold opecity"
+              label="Home"
+            />
             <q-btn
               flat
               to="/service"
-              color="primary"
+              color="primary opecity"
               class="text-bold"
               label="Services"
             />
             <q-btn
               flat
               to="/about"
-              color="primary"
+              color="primary opecity"
               class="text-bold"
               label="About"
             />
             <q-btn
               flat
               to="/contact"
-              color="primary"
+              color="primary opecity"
               class="text-bold"
               label="Contact"
             />
@@ -41,7 +49,7 @@
             dense
             round
             color="primary"
-            class="q-mr-md lt-md q-mb-lg"
+            class="q-mr-md lt-md q-mt-xs"
             icon="menu"
             aria-label="Menu"
             @click="drawer"
@@ -58,15 +66,18 @@
       bordered
       style="width: 100%"
     >
-      <div class="row">
-        <div class="text-h6 q-pb-lg text-bold text-white q-pl-xs">
-          Rowad El-Mada
-        </div>
+      <div class="row q-pb-md">
+        <q-img
+          src="~assets/logo1.png"
+          class="opecity"
+          height="90px"
+          width="130px"
+        />
         <q-space />
         <q-icon
           name="close"
           size="24px"
-          class="q-pt-xs cursor-pointer q-pr-md q-mr-xs"
+          class="q-pt-xs cursor-pointer q-pr-md q-mr-xs q-pt-lg"
           @click="close()"
           color="white"
         />
@@ -322,5 +333,9 @@ export default {
 .div {
   margin-bottom: -12px;
   font-size: 12px;
+}
+
+.opecity {
+  opacity: 100%;
 }
 </style>

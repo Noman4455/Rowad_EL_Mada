@@ -173,9 +173,9 @@ export default {
 
 <style lang="scss">
 .bg-img {
-  background-image: url("https://abrarme.com/wp-content/uploads/2022/10/home-banner-2-1.jpg");
+  background-image: url("https://images.unsplash.com/photo-1546455643-312811da2332?q=80&w=1536&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   height: 80vh;
-  margin-top: -10vh;
+  margin-top: -15vh;
   background-repeat: no-repeat;
 }
 
