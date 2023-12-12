@@ -45,7 +45,7 @@
             <input
               type="text"
               class="input_style"
-              placeholder="Phome"
+              placeholder="Phone"
               name="Phone"
               required
             />
@@ -120,7 +120,7 @@
             <input
               type="text"
               class="input_style"
-              placeholder="Phome"
+              placeholder="Phone"
               name="Phone"
               required
             />
