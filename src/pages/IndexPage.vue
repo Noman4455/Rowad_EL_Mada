@@ -402,6 +402,11 @@
 
 <script>
 import { ref } from "vue";
+import img1 from "../assets/cons1.png";
+import img2 from "../assets/cons2.png";
+import img3 from "../assets/cons3.png";
+import img6 from "../assets/cons6.png";
+import img8 from "../assets/cons8.png";
 export default {
   name: "IndexPage",
   setup() {
@@ -413,32 +418,27 @@ export default {
       slides: [
         {
           name: "style",
-          imgSrc:
-            "https://plus.unsplash.com/premium_photo-1671808062726-2a7ffcd6109e?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          imgSrc: img1,
           title: "Developing With Vision",
         },
         {
           name: "style1",
-          imgSrc:
-            "https://plus.unsplash.com/premium_photo-1682724602925-f0264b85953f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          imgSrc: img2,
           title: " When We Build, Let Us Think",
         },
         {
           name: "style2",
-          imgSrc:
-            "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          imgSrc: img3,
           title: "Futuristic And Sustainable",
         },
         {
           name: "style3",
-          imgSrc:
-            "https://images.unsplash.com/photo-1626885930974-4b69aa21bbf9?q=80&w=1492&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          imgSrc: img6,
           title: "Inspired Solutions For Your Construction",
         },
         {
           name: "style4",
-          imgSrc:
-            "https://images.unsplash.com/photo-1429497419816-9ca5cfb4571a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          imgSrc: img8,
           title: "The Road To Success",
         },
       ],

@@ -6,8 +6,8 @@
           <q-img
             src="~assets/logo2.png"
             class="opecity"
-            height="80px"
-            width="120px"
+            height="auto"
+            width="80px"
           />
 
           <div class="absolute-right q-pt-lg q-mt-md gt-sm">

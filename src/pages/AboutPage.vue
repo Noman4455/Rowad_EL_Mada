@@ -289,7 +289,7 @@ export default {
 
 <style lang="scss">
 .bg-img {
-  background-image: url("https://images.unsplash.com/photo-1495036019936-220b29b930ea?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-image: url("../assets//cons5.png");
   height: 80vh;
   margin-top: -15vh;
 }
