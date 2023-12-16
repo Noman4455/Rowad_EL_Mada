@@ -136,17 +136,17 @@
         />
       </a>
       <div class="row container q-py-xl q-col-gutter-md">
-        <div class="col-4">
-          <q-img src="~assets/logo1.png" height="auto" width="200px" />
+        <div class="col">
+          <q-img src="~assets/logo1.png" height="auto" width="140px" />
         </div>
-        <div class="col-12 col-md-6 col-lg-3 q-gutter-y-md">
+        <div class="col-12 col-md q-gutter-y-md">
           <div class="text-h6 text-bold">COMPANY</div>
           <div><a href="#/about">About</a></div>
           <div><a href="#/service">What We Do</a></div>
           <div><a href="#/about">How We Do</a></div>
           <div><a href="#/contact">Contact</a></div>
         </div>
-        <div class="col-12 col-md-6 col-lg-2 q-gutter-y-md">
+        <div class="col-12 col-md q-gutter-y-md">
           <div class="text-h6 text-bold">SERVICES</div>
           <div><a href="#/service">Construction</a></div>
           <div><a href="#/service">Interior Designing</a></div>
@@ -156,7 +156,7 @@
           <div><a href="#/service">Air Conditioning Equipment</a></div>
           <div><a href="#/service">Ducts</a></div>
         </div>
-        <div class="col-12 col-md-6 col-lg-3 q-gutter-y-sm text-right">
+        <div class="col-12 col-md q-gutter-y-sm text-right">
           <div>
             <div class="text-h6 text-bold text-red">HAVE QUESSTIONS?</div>
           </div>
