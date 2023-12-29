@@ -66,7 +66,9 @@
     </div>
 
     <div class="container q-pt-lg">
-      <div class="text-h2 text-primary q-mt-xl q-py-lg text-bold gt-sm">
+      <div
+        class="text-h2 text-center text-primary q-mt-xl q-py-lg text-bold gt-sm"
+      >
         About
       </div>
       <div class="text-h5 text-primary text-center text-bold q-mt-md lt-md">
@@ -75,27 +77,33 @@
       <div class="row q-pb-xl q-mb-lg q-col-gutter-x-lg q-pt-lg">
         <div class="col-12 col-md-6">
           <div class="text-subtitle1 text-info" align="justify">
-            Construction involves a dynamic interplay of aesthetics and
-            functionality, seamlessly blending interior and exterior design.
-            Interior design tailors personalized, functional spaces, while
-            exterior design shapes visually appealing structures, resulting in a
-            harmonious fusion of style and practicality that transforms spaces.
+            Rawad-el Mada thrives on the dynamic interplay of aesthetics and
+            functionality in construction, seamlessly blending interior and
+            exterior design. Our expertise extends to personalized, functional
+            interior spaces and visually appealing exterior structures, creating
+            a harmonious fusion of style and practicality that transforms
+            spaces.
             <br />
             <br />
-            A construction firm specializing in HVAC systems prioritizes
-            achieving optimal indoor climate control. During installation, the
-            company ensures precise positioning and securing of equipment,
-            configures ductwork, and adheres to safety codes. A comprehensive
-            understanding of project-specific heating and cooling needs is
-            integral. In the maintenance phase, regular inspections, cleaning,
-            and repairs are conducted to guarantee efficient and safe operation.
-            This expertise not only enhances occupant comfort but also
+            As a construction firm specializing in HVAC systems, we prioritize
+            achieving optimal indoor climate control. During installation, our
+            meticulous approach ensures precise positioning and securing of
+            equipment, configuration of ductwork, and strict adherence to safety
+            codes. We possess a comprehensive understanding of project-specific
+            heating and cooling needs, integral for delivering effective
+            solutions. In the maintenance phase, Rawad-el Mada conducts regular
+            inspections, cleaning, and repairs to guarantee efficient and safe
+            operation. Our expertise not only enhances occupant comfort but also
             significantly improves energy efficiency and sustainability in the
-            constructed spaces.
+            spaces we construct.
+            <br />
+            <br />
+            Trust Rawad-el Mada for innovative construction solutions that
+            elevate both aesthetics and functionality.
           </div>
         </div>
         <div class="col-1 gt-sm"></div>
-        <div class="col-12 col-md-5 gt-sm">
+        <div class="q-pt-lg q-mt-sm col-12 col-md-5 gt-sm">
           <div class="text-center">
             <div class="row q-gutter-md">
               <div class="col-12 col-sm-5 box">
@@ -257,7 +265,7 @@
             We seek to improve the lives of our clients by providing unique and
             attractive interior design solutions, and creating innovative real
             estate projects that meet their needs and exceed their expectations.
-            We also offer high-quality and efficient air conditioning systems to
+            We offer high-quality and efficient air conditioning systems to
             ensure their comfort and that of their families.
           </div>
           <br />
@@ -284,7 +292,7 @@
             We seek to improve the lives of our clients by providing unique and
             attractive interior design solutions, and creating innovative real
             estate projects that meet their needs and exceed their expectations.
-            We also offer high-quality and efficient air conditioning systems to
+            We offer high-quality and efficient air conditioning systems to
             ensure their comfort and that of their families.
           </div>
           <br />
@@ -304,18 +312,15 @@
 
     <div class="bg-primary q-py-lg gt-sm">
       <div class="text-h2 text-center q-pt-xl q-pb-md text-white text-bold">
-        Except Nothing,
+        Constructing Solutions that Balance
       </div>
       <div class="text-h2 text-center q-pb-xl text-white text-bold">
-        but Quality.
+        Beauty and Practicality
       </div>
     </div>
-    <div class="bg-primary q-mt-md q-py-md lt-md">
+    <div class="q-px-md bg-primary q-mt-md q-py-md lt-md">
       <div class="text-h5 text-center q-pt-md q-pb-md text-white text-bold">
-        Except Nothing,
-      </div>
-      <div class="text-h5 text-center q-pb-md text-white text-bold">
-        but Quality.
+        Constructing Solutions that Balance Beauty and Practicality
       </div>
     </div>
 
@@ -405,7 +410,6 @@ import { ref } from "vue";
 import img1 from "../assets/cons1.png";
 import img2 from "../assets/cons2.png";
 import img3 from "../assets/cons3.png";
-import img6 from "../assets/cons6.png";
 import img8 from "../assets/cons8.png";
 export default {
   name: "IndexPage",
@@ -430,11 +434,6 @@ export default {
           name: "style2",
           imgSrc: img3,
           title: "Futuristic And Sustainable",
-        },
-        {
-          name: "style3",
-          imgSrc: img6,
-          title: "Inspired Solutions For Your Construction",
         },
         {
           name: "style4",

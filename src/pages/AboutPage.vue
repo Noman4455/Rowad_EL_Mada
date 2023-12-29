@@ -7,7 +7,7 @@
     </div>
     <div
       class="bg-img flex flex-center lt-md"
-      style="height: 60vh; margin-top: -10vh"
+      style="height: 60vh; margin-top: -15vh"
     >
       <div class="text-h5 q-my-auto text-info text-bold container">
         Rowad El-Mada LLC
@@ -15,7 +15,9 @@
     </div>
 
     <div class="container q-pt-lg">
-      <div class="text-h2 text-primary q-mt-xl q-pt-lg text-bold gt-sm">
+      <div
+        class="text-h2 text-center text-primary q-mt-xl q-py-lg text-bold gt-sm"
+      >
         About
       </div>
       <div class="text-h5 text-primary text-center text-bold q-mt-md lt-md">
@@ -24,27 +26,33 @@
       <div class="row q-pb-xl q-mb-lg q-col-gutter-x-lg q-pt-lg">
         <div class="col-12 col-md-6">
           <div class="text-subtitle1 text-info" align="justify">
-            Construction involves a dynamic interplay of aesthetics and
-            functionality, seamlessly blending interior and exterior design.
-            Interior design tailors personalized, functional spaces, while
-            exterior design shapes visually appealing structures, resulting in a
-            harmonious fusion of style and practicality that transforms spaces.
+            Rawad-el Mada thrives on the dynamic interplay of aesthetics and
+            functionality in construction, seamlessly blending interior and
+            exterior design. Our expertise extends to personalized, functional
+            interior spaces and visually appealing exterior structures, creating
+            a harmonious fusion of style and practicality that transforms
+            spaces.
             <br />
             <br />
-            A construction firm specializing in HVAC systems prioritizes
-            achieving optimal indoor climate control. During installation, the
-            company ensures precise positioning and securing of equipment,
-            configures ductwork, and adheres to safety codes. A comprehensive
-            understanding of project-specific heating and cooling needs is
-            integral. In the maintenance phase, regular inspections, cleaning,
-            and repairs are conducted to guarantee efficient and safe operation.
-            This expertise not only enhances occupant comfort but also
+            As a construction firm specializing in HVAC systems, we prioritize
+            achieving optimal indoor climate control. During installation, our
+            meticulous approach ensures precise positioning and securing of
+            equipment, configuration of ductwork, and strict adherence to safety
+            codes. We possess a comprehensive understanding of project-specific
+            heating and cooling needs, integral for delivering effective
+            solutions. In the maintenance phase, Rawad-el Mada conducts regular
+            inspections, cleaning, and repairs to guarantee efficient and safe
+            operation. Our expertise not only enhances occupant comfort but also
             significantly improves energy efficiency and sustainability in the
-            constructed spaces.
+            spaces we construct.
+            <br />
+            <br />
+            Trust Rawad-el Mada for innovative construction solutions that
+            elevate both aesthetics and functionality.
           </div>
         </div>
         <div class="col-1 gt-sm"></div>
-        <div class="col-12 col-md-5 gt-sm">
+        <div class="q-pt-lg q-mt-sm col-12 col-md-5 gt-sm">
           <div class="text-center">
             <div class="row q-gutter-md">
               <div class="col-12 col-sm-5 box">

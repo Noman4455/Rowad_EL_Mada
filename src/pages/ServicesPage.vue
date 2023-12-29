@@ -7,7 +7,7 @@
     </div>
     <div
       class="bg-img flex flex-center lt-md"
-      style="height: 50vh; margin-top: -10vh"
+      style="height: 50vh; margin-top: -15vh"
     >
       <div class="text-h4 q-my-auto text-info text-bold container">
         Services

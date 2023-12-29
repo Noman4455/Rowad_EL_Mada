@@ -70,8 +70,8 @@
         <q-img
           src="~assets/logo1.png"
           class="opecity"
-          height="90px"
-          width="130px"
+          height="auto"
+          width="80px"
         />
         <q-space />
         <q-icon
@@ -127,7 +127,7 @@
     </q-page-container>
 
     <footer class="bg-primary text-white q-py-lg q-pt-lg gt-sm">
-      <a href="https://wa.me/+96878678282" target="_blank">
+      <a href="https://wa.me/+96892181472" target="_blank">
         <q-img
           src="~assets/whatsapp.png"
           class="whatsapp q-mb-md q-mr-md"
@@ -136,8 +136,8 @@
         />
       </a>
       <div class="row container q-py-xl q-col-gutter-md">
-        <div class="col">
-          <q-img src="~assets/logo1.png" height="auto" width="140px" />
+        <div class="q-my-auto col">
+          <q-img src="~assets/logo1.png" height="auto" width="100px" />
         </div>
         <div class="col-12 col-md q-gutter-y-md">
           <div class="text-h6 text-bold">COMPANY</div>
@@ -163,23 +163,25 @@
           <div class="text-bold q-pb-md" style="font-size: 2.5rem">
             <div class="div">Get in Touch with us</div>
             <div class="">
-              <a href="https://wa.me/+96878678282" target="_blank">
-                +96878678282
+              <a href="https://wa.me/+96892181472" target="_blank">
+                +96892181472
               </a>
             </div>
           </div>
           <div class="text-bold">Rowad El-Mada LLC</div>
-          <div>Al Khuwair, Bousher, Muscat</div>
+          <div>Al Khuwair South, Bousher, Muscat</div>
           <div>info@rowadel-mada.com</div>
           <div class="q-gutter-x-md q-pt-lg">
-            <a href="https://www.facebook.com/kualitysoft" target="_blank"
+            <a
+              href="https://www.facebook.com/profile.php?id=61552634759491"
+              target="_blank"
               ><q-img src="~assets/face.png" height="30px" width="30px"
             /></a>
-            <a href="https://www.instagram.com/kualitysoft/" target="_blank"
+            <a href="https://www.instagram.com/rowadelmada/" target="_blank"
               ><q-img src="~assets/instagram.png" height="30px" width="30px"
             /></a>
             <a
-              href="https://www.linkedin.com/company/kualitysoft/"
+              href="https://www.linkedin.com/company/rowadelmada/about/"
               target="_blank"
               ><q-img src="~assets/linkedin.png" height="30px" width="30px"
             /></a>
@@ -202,7 +204,7 @@
       </div>
     </footer>
     <footer class="bg-primary text-white q-py-lg lt-md">
-      <a href="https://wa.me/+96878678282" target="_blank">
+      <a href="https://wa.me/+96892181472" target="_blank">
         <q-img
           src="~assets/whatsapp.png"
           class="whatsapp q-mb-md q-mr-md"
@@ -235,24 +237,26 @@
           <div class="text-bold q-pb-md" style="font-size: 2rem">
             <div class="div" style="font-size: 12px">Get in Touch with us</div>
             <div class="">
-              <a href="https://wa.me/+96878678282" target="_blank">
-                +96878678282
+              <a href="https://wa.me/+96892181472" target="_blank">
+                +96892181472
               </a>
             </div>
           </div>
           <div class="text-bold">Rowad El-Mada LLC</div>
-          <div>Al Khuwair, Bousher, Muscat</div>
+          <div>Al Khuwair South, Bousher, Muscat</div>
           <div>info@rowadel-mada.com</div>
         </div>
         <div class="q-gutter-x-md q-pt-lg q-mx-auto">
-          <a href="https://www.facebook.com/kualitysoft" target="_blank"
+          <a
+            href="https://www.facebook.com/profile.php?id=61552634759491"
+            target="_blank"
             ><q-img src="~assets/face.png" height="30px" width="30px"
           /></a>
-          <a href="https://www.instagram.com/kualitysoft/" target="_blank"
+          <a href="https://www.instagram.com/rowadelmada/" target="_blank"
             ><q-img src="~assets/instagram.png" height="30px" width="30px"
           /></a>
           <a
-            href="https://www.linkedin.com/company/kualitysoft/"
+            href="https://www.linkedin.com/company/rowadelmada/about/"
             target="_blank"
             ><q-img src="~assets/linkedin.png" height="30px" width="30px"
           /></a>

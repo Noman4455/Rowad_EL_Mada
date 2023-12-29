@@ -5,7 +5,7 @@
     </div>
     <div
       class="bg-img flex flex-center lt-md"
-      style="height: 60vh; margin-top: -10vh"
+      style="height: 60vh; margin-top: -15vh"
     >
       <div class="text-h5 q-my-auto text-info text-bold container">Contact</div>
     </div>
@@ -14,11 +14,11 @@
         <div class="text-h4 q-py-lg text-bold">Rowad El-Mada LLC</div>
         <div class="row">
           <q-icon name="place" size="24px" class="q-pr-md" />
-          <div class="text-subtitle1">Al Khuwair, Bousher, Muscat</div>
+          <div class="text-subtitle1">Al Khuwair, South Bousher, Muscat</div>
         </div>
         <div class="text-subtitle1">
           <q-icon name="phone" size="24px" class="q-pr-md" />
-          +96878678282
+          +96892181472
         </div>
         <div class="text-subtitle1">
           <q-icon name="mail" size="24px" class="q-pr-md" />
@@ -27,7 +27,7 @@
       </div>
 
       <form
-        action="https://formspree.io/f/xeqbwrra"
+        action="https://formspree.io/f/mbjnjjbg"
         method="POST"
         class="col-6 q-pt-lg q-mt-sm"
       >
@@ -74,7 +74,7 @@
       </form>
       <div class="container q-py-xl q-mb-md">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3376.0096299562892!2d74.19374627462834!3d32.203971173908286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391f291dfa84199b%3A0x23befcf10f8763ed!2sKualitySoft.!5e0!3m2!1sen!2s!4v1700818713264!5m2!1sen!2s"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58504.830358928746!2d58.352774623177595!3d23.58453201157291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e91ff1b5c71c501%3A0xd5531bfe6f92d25!2sAl%20Khuwayr%20South%2C%20Muscat%2C%20Oman!5e0!3m2!1sen!2s!4v1703851157798!5m2!1sen!2s"
           width="102%"
           height="450"
           style="border: 0"
@@ -89,11 +89,11 @@
         <div class="text-h5 text-bold">Rowad El-Mada LLC</div>
         <div class="row">
           <q-icon name="place" size="24px" class="q-pr-md" />
-          <div class="text-subtitle1">Al Khuwair, Bousher, Muscat</div>
+          <div class="text-subtitle1">Al Khuwair South, Bousher, Muscat</div>
         </div>
         <div class="text-subtitle1">
           <q-icon name="phone" size="24px" class="q-pr-md" />
-          +96878678282
+          +96892181472
         </div>
         <div class="text-subtitle1">
           <q-icon name="mail" size="24px" class="q-pr-md" />
@@ -102,7 +102,7 @@
       </div>
 
       <form
-        action="https://formspree.io/f/xeqbwrra"
+        action="https://formspree.io/f/mbjnjjbg"
         method="POST"
         class="col-12 col-md-6 q-pr-md"
       >
@@ -149,7 +149,7 @@
       </form>
       <div class="container q-pt-lg q-pb-xl">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3376.0096299562892!2d74.19374627462834!3d32.203971173908286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391f291dfa84199b%3A0x23befcf10f8763ed!2sKualitySoft.!5e0!3m2!1sen!2s!4v1700818713264!5m2!1sen!2s"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30109.275702363917!2d58.40132882623814!3d23.585841628020777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e91ff1b5c71c501%3A0xd5531bfe6f92d25!2sAl%20Khuwayr%20South%2C%20Muscat%2C%20Oman!5e0!3m2!1sen!2s!4v1703850245607!5m2!1sen!2s"
           width="100%"
           height="300"
           style="border: 0"
